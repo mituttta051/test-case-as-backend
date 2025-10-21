@@ -1,0 +1,134 @@
+[
+  {
+    "id": "b2a5d99d-56f1-43e5-8c26-6a9c8b46f1a4",
+    "title": "iPhone 15 Pro",
+    "price": 1299,
+    "description": "Apple smartphone with A17 Pro chip and titanium design.",
+    "image": "https://images.deinhandy.de/assets/3bb7594020567827aa595b4c1a24651b74f10d21fea2107d7a62be3e0ba2e275/iPhone_15_Pro_Max_Blue_Titanium_PDP_Image_Position-4__DEDE.png?tr=w-640,cm-pad_resize",
+    "category": "electronics",
+    "rating": {
+      "rate": 4.8,
+      "count": 1240
+    }
+  },
+  {
+    "id": "a7327ed1-0a3b-49eb-bd7e-bd79ff35a0ef",
+    "title": "Samsung 4K Smart TV",
+    "price": 899,
+    "description": "55-inch smart TV with HDR10+ and built-in streaming apps.",
+    "image": "https://www.lidl.de/assets/gcp62a804daddb44d21a1996d0594f02545.jpeg",
+    "category": "electronics",
+    "rating": {
+      "rate": 4.6,
+      "count": 870
+    }
+  },
+  {
+    "id": "1bcbf321-9e8b-4a4d-97d7-8f0bcb0bb091",
+    "title": "Diamond Necklace",
+    "price": 2499,
+    "description": "Elegant diamond necklace made from 18K white gold.",
+    "image": "https://cdn.orra.co.in/media/catalog/product/cache/10238651d5f95594b9023f998383bb67/o/s/osn19041_2_gpkemjdffhlflbgm.jpg",
+    "category": "jewelery",
+    "rating": {
+      "rate": 4.9,
+      "count": 320
+    }
+  },
+  {
+    "id": "7c8b1d1b-2e3e-4e6c-a915-d2980de6db84",
+    "title": "Men's Classic T-Shirt",
+    "price": 29.99,
+    "description": "100% cotton t-shirt for men, available in multiple colors.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "category": "men's clothing",
+    "rating": {
+      "rate": 4.3,
+      "count": 540
+    }
+  },
+  {
+    "id": "ae7c8fa3-79d0-48a2-a53b-77ac7080a82f",
+    "title": "Women's Summer Dress",
+    "price": 49.99,
+    "description": "Lightweight and breathable cotton dress for summer.",
+    "image": "https://cdn.aboutstatic.com/file/images/c2654adbaa9ecf0bdcefcbbd89451281.jpg?quality=75&height=480&width=360",
+    "category": "women's clothing",
+    "rating": {
+      "rate": 4.5,
+      "count": 600
+    }
+  },
+  {
+    "id": "3e650e08-492a-4e06-a018-51cb9dc0ce2a",
+    "title": "Wooden Bookshelf",
+    "price": 179.99,
+    "description": "Solid oak bookshelf with 5 adjustable shelves.",
+    "image": "https://m.media-amazon.com/images/I/71n1x30sXoL.jpg",
+    "category": "home",
+    "rating": {
+      "rate": 4.7,
+      "count": 220
+    }
+  },
+  {
+    "id": "55e52f40-45cd-4e7d-b6f3-841937a1181b",
+    "title": "Lego Star Wars Set",
+    "price": 129.99,
+    "description": "Detailed LEGO set with iconic Star Wars characters.",
+    "image": "https://www.lego.com/cdn/cs/set/assets/blt97ba3a3c6c9eac51/75431_Prod_en-gb.png?fit=crop&quality=80&width=400&height=400&dpr=1",
+    "category": "toys",
+    "rating": {
+      "rate": 4.9,
+      "count": 980
+    }
+  },
+  {
+    "id": "b67c8f21-bc8e-40f7-a706-5e60efc67901",
+    "title": "The Pragmatic Programmer",
+    "price": 39.99,
+    "description": "Classic software engineering book by Andrew Hunt and David Thomas.",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+    "category": "books",
+    "rating": {
+      "rate": 4.8,
+      "count": 2100
+    }
+  },
+  {
+    "id": "f5c624e2-4c77-4f7b-a39f-836b9e72975f",
+    "title": "Women's Leather Handbag",
+    "price": 199.99,
+    "description": "Stylish genuine leather handbag with gold details.",
+    "image": "https://m.media-amazon.com/images/I/61RSyB+kbzL._AC_SL1200_.jpg",
+    "category": "women's clothing",
+    "rating": {
+      "rate": 4.7,
+      "count": 870
+    }
+  },
+  {
+    "id": "5c4b231e-8e9c-41f6-86e9-57cc0adca3bb",
+    "title": "Men's Sneakers",
+    "price": 89.99,
+    "description": "Lightweight and durable running shoes for men.",
+    "image": "https://cdn.braun-hamburg.com/media/catalog/product/cache/c7b500f5dd69dfcc3849f418a469152a/9/0/9010_066279_010_santoni-sneaker_001_p.1758883815.jpg",
+    "category": "men's clothing",
+    "rating": {
+      "rate": 4.4,
+      "count": 460
+    }
+  },
+  {
+    "id": "d78fa6f6-7151-499e-8815-810c84b32afe",
+    "title": "tyt",
+    "price": 55,
+    "description": "tgrt",
+    "image": "https://www.lidl.de/assets/gcp62a804daddb44d21a1996d0594f02545.jpeg",
+    "category": "toys",
+    "rating": {
+      "rate": 0,
+      "count": 0
+    }
+  }
+]
