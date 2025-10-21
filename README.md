@@ -22,6 +22,6 @@
 
 1. Склонируйте репозиторий или скачайте код:  
    ```bash
-   git clone <URL-репозитория>  
+   git clone https://github.com/mituttta051/test-case-as-backend
    cd test-case-as-backend
 
